@@ -1,2 +1,2 @@
 # testRepo
-This is a simple repo to test candidates knowledge of source control
+This is a simple repo to test a candidates' knowledge of source control
