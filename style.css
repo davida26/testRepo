@@ -1,0 +1,38 @@
+body{
+  width: 800px;
+  margin: 0 auto 50px auto;
+}
+
+
+.red{
+  color: red !important;
+}
+
+#yellow{
+  color: yellow;
+}
+
+h1{
+  font-size: 30px;
+  color: blue;
+}
+.square{
+  height: 500px;
+  width:500px; 
+  border: 1px solid red;
+  margin: 0 auto;
+}
+
+.small-square{
+  height: 250px;
+  width:250px;
+  border: 1px solid black;
+  margin: 125px;
+}
+
+.xs-small-square{
+  height: 125px;
+  width: 125px;
+  border: 1px solid black;
+  margin: 25%;
+}
